@@ -23,16 +23,12 @@ Delphi • Object Pascal • TypeScript • JavaScript • PHP • SQL
 
 Backend
 Laravel • Next.js • Node.js • Express.js • REST API
-
 Frontend
 React • Next.js • TailwindCSS • Shadcn UI
-
 Database
 MySQL • PostgreSQL • SQL Server • Prisma ORM
-
 Infrastructure
 Linux • Nginx • PM2 • Docker • MikroTik • Cisco
-
 Tools
 Git • GitHub • VS Code • RAD Studio • Postman
 
