@@ -1,12 +1,12 @@
-👨‍💻 Ranran Rahayu
+Ranran Rahayu
 Fullstack Software Engineer • Solution Architect • Network Engineer
 
-🚀 About Me
+About Me
 I'm a technology enthusiast focused on building complete business solutions from infrastructure to application layer.
 For more than a decade, I've been involved in developing enterprise systems, school management systems, financial applications, billing systems, desktop applications, mobile apps, and network infrastructure.
 I enjoy transforming business processes into scalable and maintainable software.
 
-🧠 What I Do
+What I Do
 ✔ Enterprise Software Development
 ✔ School Information Systems (SIMDIK)
 ✔ ERP & Finance Systems
@@ -17,7 +17,7 @@ I enjoy transforming business processes into scalable and maintainable software.
 ✔ Network Infrastructure
 ✔ WhatsApp Automation
 ✔ SaaS Platform Development
-⚙️ Tech Stack
+Tech Stack
 Languages
 Delphi • Object Pascal • TypeScript • JavaScript • PHP • SQL
 
@@ -32,8 +32,8 @@ Linux • Nginx • PM2 • Docker • MikroTik • Cisco
 Tools
 Git • GitHub • VS Code • RAD Studio • Postman
 
-🌟 Featured Solutions
-🎓 School Information System (SIMDIK)
+Featured Solutions
+School Information System (SIMDIK)
 
 Integrated school ecosystem featuring:
 
@@ -50,15 +50,15 @@ Built with:
 
 Next.js + Prisma + MySQL + NextAuth
 WebSocket + WhatsApp Gateway + PM2
-📈 GitHub Statistics
-🎯 Current Focus
+GitHub Statistics
+Current Focus
 SaaS Platform Development
 Next.js Ecosystem
 AI Integration
 Business Automation
 Infrastructure Automation
 Database Performance
-🤝 Connect With Me
+Connect With Me
 "Turning Ideas Into Real Solutions"
 
-🚀 Desktop • Web • Mobile • Network • Database
+Desktop • Web • Mobile • Network • Database
